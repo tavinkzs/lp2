@@ -1,0 +1,5 @@
+N = float(input("Digite o numero de lados do polígono: "))
+ND = (N * (N-3)/2)
+print("="*20)
+print("\n")
+print("O numero de lados é: ", ND)
